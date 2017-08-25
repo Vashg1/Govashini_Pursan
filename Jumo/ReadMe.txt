@@ -1,3 +1,7 @@
+Calculate the aggregate loans by the tuple of (Network, Product, Month) with the total currency amounts, counts and output into Output.csv file
+
+Project was done for JUMO's technical assessment to show my technical abilities
+
 The programming language I've picked is C#
  
 I've used Visual Studio 2010 with Windows forms components. I went with this selection because I am comfortable with these tools and use them in my day to day operations.
@@ -11,9 +15,9 @@ A message will be displayed is no file available
 Column names always stay the same
 
 Some error handling that could be considered:
-•  More fields sent than required
-•  Invalid Characters
-•  Missing values and fields
+â€¢  More fields sent than required
+â€¢  Invalid Characters
+â€¢  Missing values and fields
 
 The above error handling could be implemented. 
 However, in order to keep the application simple and clean, I've adhered to the requirements of the specification. 
